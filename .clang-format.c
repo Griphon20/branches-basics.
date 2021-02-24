@@ -60,14 +60,6 @@ for(int i = 0; i < M; i++)
 printf("check sum = %d\n", Summa);
 }
 
-void RunNumber (int a[], int M) 
-{
-int kol=0,i;
-for(i=0;i<M;i++)
-   if(a[i-1]!=a[i])
-       kol++;
-printf("?????????? ????? = %d\n", kol);
-}
 
 void PrintMas (int a[], int M) 
 {
