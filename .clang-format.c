@@ -6,7 +6,7 @@
 void FillInc (int [], int, int);
 void FillDec (int [], int, int);
 void FillRand (int [], int);
-void CheckSum (int [], int);
+
 void RunNumber (int [], int);
 void PrintMas (int [], int);
  
